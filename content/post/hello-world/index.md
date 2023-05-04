@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hello World 👋
 description: Welcome to m010-cpu's blog 
 slug: hello-world
 date: 2023-05-01 00:00:00+0000
