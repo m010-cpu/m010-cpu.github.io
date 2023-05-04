@@ -1,4 +1,4 @@
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://m010-cpu.github.io"
 languageCode = "en-us"
 paginate = 5
 title = "m010-cpu"
